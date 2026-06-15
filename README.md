@@ -17,3 +17,4 @@ While researching administrative bottlenecks on Reddit, I noticed that one of th
 2. **Install the required libraries** via your terminal:
    ```bash
    pip install pandas reportlab openpyxl
+3. **Customize your contract (Optional):** Open `contract_template.txt` and change the text using the tags `[CLIENT_NAME]`, `[SERVICE]`, and `[PRICE]`.
