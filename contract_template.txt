@@ -1,0 +1,13 @@
+STANDARD SERVICE PRESTATION CONTRACT
+
+By means of this agreement, it is mutually agreed as follows:
+Between the undersigned Professional and the Client: [CLIENT_NAME]
+
+1. Scope of Work: The professional agrees to perform the following
+   service: '[SERVICE]' for the benefit of the Client.
+
+2. Compensation: For the services listed above, the Client shall pay
+   a total amount of [PRICE] USD.
+
+Professional Signature: ______________________
+Client Signature: ___________________________
